@@ -14,3 +14,7 @@ https://dadosabertos.camara.leg.br/swagger/api.html#staticfile
 > TSE
 
 https://dadosabertos.tse.jus.br/dataset/candidatos-2022
+
+- [x] Download e import de dados do tse
+- [x] Análise exploratória com pandas
+- [x] Report Automatizado com langchain
