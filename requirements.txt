@@ -2,4 +2,11 @@ matplotlib
 wordcloud
 PyPDF2
 nltk
-nltk
+pandas
+openai
+python-dotenv
+jupyter_ai
+seaborn
+langchain_experimental 
+tabulate
+langchain
