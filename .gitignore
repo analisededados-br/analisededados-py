@@ -1,2 +1,4 @@
 input
 venv
+.jupyter
+.env
